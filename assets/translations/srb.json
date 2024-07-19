@@ -1,0 +1,484 @@
+{
+  "navigation": {
+    "home": "Početna",
+    "news": "Novosti",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "products": "Proizvodi",
+    "fastLinks": "Brzi linkovi"
+  },
+  "home": {
+    "hero": {
+      "title": "Više od 1000 namena <br>Najbolji rezultati na testu",
+      "subtitle": "Rocket TT: Stays Where It Sprays.",
+      "supportingText": "Rocket TT je visokoperformansni višenamenski super podmazivač, dizajniran da pruži izuzetnu zaštitu i funkcionalnost na svim površinama. Sa jedinstvenim kristalnim voštanim slojem, Rocket TT pruža dugotrajnu zaštitu protiv korozije i rđe, osiguravajući da Vaša oprema ostane u besprekornom stanju.",
+      "discoverAction": "Saznajte više",
+      "contactAction": "Kontaktirajte nas"
+    },
+    "about": {
+      "title": "Efikasno podmazivanje",
+      "subtitle": "Efikasno zaustavlja škripanje i osigurava nesmetan rad svih pokretnih delova.",
+      "text1": "Razvijen uz <span class='emphasis'>stručnost i tehničko znanje kompanije Tetrosyl</span>, Rocket TT je nezaobilazni podmazivač u zanatskim radionicama još od 1960-ih. Svoju upotrebu je započeo u garažama i radionicama, generacijama podmazujući i održavajući metalne i pokretne delove. Sada dostupan na Balkanu, Rocket TT garantuje dugotrajnu zaštitu i efikasnost u različitim primenama.",
+      "text2": "Rocket TT nadmašuje proizvode vodećih konkurenata, pružajući superiorna svojstva za istiskivanje vode i prevenciju korozije. Bilo da zaustavljate škripanje, podmazujete pokretne delove ili oslobađate zarđale zavrtnje, Rocket TT je pravi izbor za Vas.",
+      "text3": "Savršen za automobilsko, industrijsko, kućno i DIY održavanje. Rocket TT takođe efikasno uklanja tragove lepka, olovke i žvakaće gume sa tvrdih površina."
+    },
+    "product": {
+      "title": "Proizvodi",
+      "subtitle": "Sada dostupan na Balkanu",
+      "text1": "Sinonim za vrhunski kvalitet i pouzdanost, Rocket TT garantuje dugotrajnu zaštitu i efikasnost u različitim primenama.",
+      "cta": "Saznajte više"
+    },
+    "productYellow": {
+      "title": "Rocket TT Super Podmazivač",
+      "subtitle": "Namenjen za široku primenu, pruža superiornu zaštitu od korozije i rđe, podmazuje mehaničke delove i oslobađa zarđale komponente. Nezamenjiv za svakodnevno i profesionalno održavanje.",
+      "cta": "Saznajte više"
+    },
+    "productRed": {
+      "title": "Rocket TT sredstvo za čišćenje kočnica i delova",
+      "subtitle": "Namenjen za održavanje kočionih komponenti i drugih mehaničkih delova, pružajući superiorne performanse čišćenja i odmašćivanja.",
+      "cta": "Saznajte više"
+    },
+    "product-carousel": {
+      "title": "Rocket TT Super Lubricant",
+      "subtitle": "Ključne karakteristike",
+      "follow-title": "Rocket TT Super Lubricant is designed to tackle a wide range of tasks, making it essential for both everyday and professional maintenance.",
+      "product-yellow": {
+        "title1": "Superiorna zaštita metala",
+        "char1": "Rocket TT Super Podmazivač štiti metalne površine sprečavajući rđu i koroziju. Njegova napredna formula stvara izdržljivu barijeru, idealnu za predmete skladištene na otvorenom ili u vlažnim okruženjima, osiguravajući dugotrajnu zaštitu.",
+        "title2": "EFIKASNO PODMAZIVANJE",
+        "char2": "Smanjuje trenje i osigurava nesmetan rad pokretnih delova. Prodire u mehaničke komponente, pružajući dugotrajno podmazivanje idealno za brave, šine, šarke i ručke, poboljšavajući efikasnost i dugovečnost.",
+        "title3": "Efikasna otpornost na vlagu i oslobađanje od rđe",
+        "char3": "Odbija vlagu i sprečava rđu i koroziju, štiteći spojeve i konekcije od oštećenja. Njegovo snažno dejstvo oslobađa zarđale delove, olakšavajući otpuštanje zaglavljenih vijaka, matica i šrafova.",
+        "title4": "Jednostavno čišćenje i uklanjanje TVRDOKORNIH MRLJA",
+        "char4": "Efikasno uklanja tvrdokorne ostatke poput lepka, nalepnica i žvakaće gume bez oštećenja površina. Njegova formula koja ne ostavlja mrlje čini ga idealnim za razne poslove čišćenja u kući, garaži i radionici."
+      },
+      "product-red": {
+        "title1": "Superiorna snaga čišćenja",
+        "char1": "Pruža izuzetnu moć čišćenja, efikasno uklanjajući prašinu od kočnica, masnoću, ulje i druge nečistoće. Ovo osigurava da vaše kočnice rade glatko i efikasno, smanjujući rizik od kvara i poboljšavajući sigurnost",
+        "title2": "Nekorozivno",
+        "char2": "Formulisano da ne korodira, što ga čini bezbednim za razne kočione komponente. Ovo osigurava temeljno čišćenje bez izazivanja bilo kakvih oštećenja",
+        "title3": "Sprej pod visokim pritiskom",
+        "char3": "Sprej pod visokim pritiskom omogućava snažan mlaz za preciznu primenu. Doseže teška područja i osigurava uklanjanje svih nečistoća čak i iz najmanjih pukotina",
+        "title4": "Brzosušeća formula",
+        "char4": "Sredstvo za čišćenje sa brzosušećom formulom koja ne ostavlja tragove. Minimizira zastoje i poboljšava efikasnost održavanja"
+      }
+    },
+    "ambassadors": {
+      "title": "Priznat od strane struke",
+      "subtitle": "Ambasadori brenda",
+      "ambassador": "Mike Brewer",
+      "position": "Poznati TV voditelj emisije",
+      "message": "Ambasador brenda Rocket TT je Mike Brewer, priznati TV voditelj emisije 'Wheeler Dealers'. Kao priznati automobilski stručnjak, Mike Brewer je poklonio svoje poverenje brendu Rocket TT, pohvalivši proizvod sledećim rečima:",
+      "cite": "\"Jednostavno je najbolji.\""
+    },
+    "article-section": {
+      "title": "Poslednje vesti",
+      "subtitle": "Pratite najnovije vesti i informacije o Rocket TT proizvodima",
+      "cta": "Pogledaj sve članke"
+    },
+    "footer": {
+      "title": "Rocket TT: Stays Where It Sprays.",
+      "text": "Iskusite prednosti Rocket TT Super Podmazivača – Vaš partner za automobilsko, industrijsko, kućno i DIY održavanje.",
+      "contact": "Kontakt",
+      "customerService": "Korisnički servis",
+      "cs0": "Uslovi korišćenja",
+      "cs1": "Informacije o plaćanju i isporuci",
+      "cs2": "Politika reklamacija",
+      "cs3": "Odustanak od ugovora",
+      "cs4": "Saobraznost i Garancija",
+      "cs5": "Politika privatnosti i zaštita podataka"
+    }
+  },
+  "news": {
+    "title": "Novosti",
+    "relatedNews": "Povezane vesti",
+    "publicationDate": "Datum objave:",
+    "category": "Kategorija:",
+    "all": "Svi"
+  },
+  "dealers": {
+    "becomeDealer": "Postani oficijalni distributer",
+    "dealerText": "Istražite naš sveobuhvatan asortiman proizvoda. Za upite o tome kako postati distributer, molimo Vas da nas kontaktirate.",
+    "contactUs": "Kontaktirajte nas"
+  },
+  "contact": {
+    "title": "Kontakt informacije",
+    "address": "Dunavska 25, Beograd",
+    "submitButton": "Pošalji poruku",
+    "firstName": "Ime",
+    "firstNamePlaceholder": "Unesi ime",
+    "firstNameError": "Ime je obavezno",
+    "lastName": "Prezime",
+    "lastNamePlaceholder": "Unesi prezime",
+    "lastNameError": "Prezime je obavezno",
+    "email": "E-mail",
+    "emailPlaceholder": "Unesi e-mail adresu",
+    "emailError": "E-mail adresa je nevalidna",
+    "message": "Poruka",
+    "messagePlaceholder": "Vaša poruka ...",
+    "messageError": "Poruka je obavezna",
+    "phone": "Telefon (opciono)",
+    "phonePlaceholder": "Unesi broj telefona",
+    "successMessage": "Vaša poruka je uspešno poslata. Hvala vam na interesovanju za Rocket TT proizvode!",
+    "successTitle": "Uspeh!",
+    "waitingTitle": "Molimo sačekajte...",
+    "errorTitle": "Greška",
+    "VAT": "PIB",
+    "RN": "MB"
+  },
+  "productPage": {
+    "header": "Otkrijte Rocket TT proizvode",
+    "followingText": "Istražite našu ponudu Rocket TT proizvoda, dizajniranih da zadovolje sve vaše potrebe za podmazivanjem. Bilo da je u pitanju domaćinstvo, vrt, ili automobilska upotreba, imamo savršeno rešenje za vas.",
+    "sizesTitle": "Rocket TT - Dostupne veličine"
+  },
+  "singleProduct": {
+    "lubricant": {
+      "title": "Rocket TT Super Podmazivač",
+      "size": "450ml",
+      "description": "Namenjen za široku primenu, Rocket TT je nezamenjiv za svakodnevno i profesionalno održavanje.",
+      "availableSizes": "Dostupne veličine:",
+      "capStraw": "<strong>Rocket TT Cap & Straw</strong>: 100ml, 300ml",
+      "superTube": "<strong>Rocket TT Super Tube</strong>: 300ml, 450ml, 600ml",
+      "openingSystemTitle": "Inovativni sistem otvaranja",
+      "openingSystemText": "Inovativni sistem \"slide to open\" pruža udobnost i preciznost. Jednostavno kliznite poklopac kako biste lako naneli proizvod na teško dostupna mesta, osiguravajući ciljanu primenu bez problema.",
+      "tabs": {
+        "tab1": "Ključne karakteristike",
+        "tab2": "Dodatni benefiti"
+      },
+      "additionalUses": [
+        {
+          "header": "Zaštita metalnih površina",
+          "text": "Štiti od rđe i korozije."
+        },
+        {
+          "header": "Podmazivanje delova",
+          "text": "Održava pokretne delove u optimalnom stanju."
+        },
+        {
+          "header": "Oslobađanje zarđalih komponenti",
+          "text": "Oslobađa zarđale vijke, matice i šrafove."
+        },
+        {
+          "header": "Eliminacija škripanja",
+          "text": "Uklanja škripanje u različitim mehanizmima."
+        },
+        {
+          "header": "Uklanjanje lepka",
+          "text": "Uklanja nalepnice, lepak i žvakaću gumu."
+        },
+        {
+          "header": "Zaštita od vlage",
+          "text": "Odbija vlagu kako bi sprečila rđu."
+        },
+        {
+          "header": "Čišćenje i zaštita električnih veza ",
+          "text": "Održava električne komponente čistim od prljavštine i vlage."
+        },
+        {
+          "header": "Očuvanje boje",
+          "text": "Sprečava ogrebotine i održava prvobitni izgled obojenih površina."
+        },
+        {
+          "header": "Zaštita tokom zimskog skladištenja",
+          "text": "Idealno za zaštitu baštenskih alata i drugih opreme tokom zimske sezone, pružajući vodootporni, anti-korozivni premaz."
+        },
+        {
+          "header": "Uklanjanje oznaka i drugih mrlja",
+          "text": "Efikasno uklanja neželjene oznake bez oštećenja površina"
+        }
+      ],
+      "useReasons": {
+        "title": "Kome je namenjen Rocket TT Super Podmazivač?",
+        "reasons": [
+          {
+            "imgPath": "./assets/svg/icons/homeowners.svg",
+            "title": "Amateri",
+            "text": "Za svakodnevne poslove održavanja u domaćinstvu."
+          },
+          {
+            "imgPath": "./assets/svg/icons/automotive.svg",
+            "title": "MEHANIČARI",
+            "text": "Za pouzdano održavanje i servisiranje vozila i opreme."
+          },
+          {
+            "imgPath": "./assets/svg/icons/autic.svg",
+            "title": "Vlasnici automobila",
+            "text": "Za održavanje vozila u najboljem stanju."
+          },
+          {
+            "imgPath": "./assets/svg/icons/industrial.svg",
+            "title": "Industrijski radnici",
+            "text": "Za održavanje mašina i opreme."
+          },
+          {
+            "imgPath": "./assets/svg/icons/diy.svg",
+            "title": "DIY entuzijasti",
+            "text": "Za profesionalnu podršku DIY projektima."
+          },
+          {
+            "imgPath": "./assets/svg/icons/cycle.svg",
+            "title": "Biciklisti i motociklisti",
+            "text": "Za održavanje i optimalne performanse tokom vožnje."
+          }
+        ]
+      }
+    },
+    "brakeCleaner": {
+      "title": "Rocket TT sredstvo za čišćenje kočnica i delova",
+      "size": "500ml",
+      "description": "Namenjen za održavanje kočionih komponenti i drugih mehaničkih delova, pružajući superiorne performanse čišćenja i odmašćivanja.",
+      "additionalUsesHeader": [
+        {
+          "header": "Višenamenska primena",
+          "text": ""
+        },
+        {
+          "header": "Ekološki prihvatljivo",
+          "text": ""
+        }
+      ],
+      "openingSystemTitle": "Innovative opening system",
+      "openingSystemText": "The innovative \"slide to open\" system provides convenience and precision. Simply slide the cap to easily apply the product in hard-to-reach areas, ensuring targeted application without hassle.",
+      "tabs": {
+        "tab1": "Ključne karakteristike",
+        "tab2": "Dodatni benefiti"
+      },
+      "additionalUses": [
+        {
+          "header": "Poboljšana sigurnost",
+          "text": "Osiguravajući da su kočione komponente bez nečistoća, Rocket TT sredstvo za čišćenje kočnica i delova doprinosi poboljšanju ukupne sigurnosti i performansi kočionog sistema Vašeg vozila."
+        },
+        {
+          "header": "Poboljšana efikasnost",
+          "text": "Formula koja brzo suši pod visokim pritiskom unapređuje efikasnost održavanja, omogućavajući brzo i jednostavno čišćenje delova."
+        },
+        {
+          "header": "Ekonomično",
+          "text": "Zahvaljujući snažnom čišćenju i višenamenskoj primeni, Rocket TT sredstvo za čišćenje kočnica i delova pruža ekonomično rešenje za održavanje kočionih komponenti i drugih mehaničkih delova."
+        },
+        {
+          "header": "Produžen vek trajanja komponenti ",
+          "text": "Pomaže u produžavanju veka trajanja kočionih komponenti i drugih mehaničkih delova uklanjanjem štetnih kontaminanata koji mogu uzrokovati habanje."
+        },
+        {
+          "header": "Ekološki",
+          "text": "Njegova formula smanjuje štetne uticaje, pokazujući odgovornost prema životnoj sredini uz izvanredne performanse čišćenja."
+        },
+        {
+          "header": "Višenamenska primena",
+          "text": "Pored kočionih komponenti, Rocket TT sredstvo za čišćenje kočnica i delova efikasno deluje na širok spektar mehaničkih delova, čineći ga svestranim dodatkom u svaki set za održavanje."
+        }
+      ],
+      "useReasons": {
+        "title": "Kome je namenjen Rocket TT sredstvo za čišćenje kočnica i delova?",
+        "reasons": [
+          {
+            "imgPath": "./assets/svg/icons/homeowners.svg",
+            "title": "Automobilski tehničari",
+            "text": "Za održavanje i čišćenje kočionih komponenti i drugih delova automobila"
+          },
+          {
+            "imgPath": "./assets/svg/icons/automotive.svg",
+            "title": "Mehaničari",
+            "text": "Za održavanje motora i drugih mehaničkih delova čistim i u ispravnom stanju."
+          },
+          {
+            "imgPath": "./assets/svg/icons/diy.svg",
+            "title": "DIY entuzijasti",
+            "text": "Za kućno održavanje vozila i mašina"
+          },
+          {
+            "imgPath": "./assets/svg/icons/industrial.svg",
+            "title": "Industrijski radnici",
+            "text": "Za održavanje čistoće i efikasnosti industrijske opreme."
+          }
+        ]
+      }
+    }
+  },
+  "yellowProduct": {
+    "id": 1,
+    "imgPath": "assets/pictures/velicine/srb/zuti-450.webp",
+    "title": "Rocket TT Super Podmazivač",
+    "text": "Namenjen za široku primenu, pruža superiornu zaštitu od korozije i rđe, podmazuje mehaničke delove i oslobađa zarđale komponente. Nezamenjiv za svakodnevno i profesionalno održavanje.",
+    "sizes": [
+      {
+        "title": "Rocket TT Super Tube",
+        "size": "600ml MEGA CAN",
+        "imgPath": "assets/pictures/velicine/srb/zuti-600.webp"
+      },
+      {
+        "title": "Rocket TT Super Tube",
+        "size": "300ml",
+        "imgPath": "assets/pictures/velicine/srb/zuti-300.webp"
+      },
+      {
+        "title": "Rocket TT Cap & Straw",
+        "size": "100ml",
+        "imgPath": "assets/pictures/velicine/srb/crveni-100.webp"
+      }
+    ]
+  },
+  "redProduct": {
+    "id": 2,
+    "imgPath": "assets/pictures/velicine/srb/crveni-500.webp",
+    "title": "Rocket TT sredstvo za čišćenje kočnica i delova",
+    "text": "Namenjen za održavanje kočionih komponenti i drugih mehaničkih delova, pružajući superiorne performanse čišćenja i odmašćivanja.",
+    "sizes": [
+      {
+        "title": "Rocket TT Super Tube",
+        "size": "450ml",
+        "imgPath": "assets/pictures/velicine/srb/zuti-450.webp"
+      },
+      {
+        "title": "Rocket TT Cap & Straw",
+        "size": "300ml",
+        "imgPath": "assets/pictures/velicine/srb/crveni-300.webp"
+      },
+      {
+        "title": "Rocket TT Brake and Part Cleaner",
+        "size": "500ml",
+        "imgPath": "assets/pictures/velicine/srb/crveni-500.webp"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "id": 1,
+      "title": "Specijalna ponuda na svim NIS benzinskim stanicama: Rocket TT Super Podmazivač za samo 1 dinar",
+      "body": "Sa zadovoljstvom Vas obaveštavamo o <b>specijalnoj ponudi koja važi na svim NIS benzinskim stanicama!</b> Uz kupovinu bilo kojeg <b>Castrol</b> ulja, možete dobiti <b>Rocket TT Super Podmazivač za samo 1 dinar</b>. <br><br> <b>Podmažite delove i obezbedite vrhunsku zaštitu Vašeg vozila uz Rocket TT Super Podmazivač.</b> Rocket TT Super Podmazivač je idealan za podmazivanje pokretnih delova, zaštitu metalnih površina, oslobađanje zarđalih vijaka, uklanjanje tvrdokornih ostataka, kao i za čišćenje i zaštitu električnih veza.<br><br> <b>Ponuda traje do isteka zaliha, stoga požurite do najbliže NIS Petrol ili Gazprom benzinske stanice i iskoristite ovu jedinstvenu priliku.</b> Ne propustite šansu da nabavite Rocket TT proizvode po neverovatnoj ceni.<br><br> Pratite nas putem Instagram-a @RocketTT.Balkans za najnovije vesti, ponude i savete o održavanju Vašeg vozila.",
+      "imgPath": "./assets/pictures/news/rockettt.jpg",
+      "previewText": "Sa zadovoljstvom Vas obaveštavamo o specijalnoj ponudi koja važi na svim NIS benzinskim stanicama! Uz kupovinu bilo kojeg Castrol ulja, možete dobiti Rocket TT Super Podmazivač za samo 1 dinar.",
+      "date": "Jun 28, 2024"
+    },
+    {
+      "id": 2,
+      "title": "Rocket TT sprej u medijima: Revija SAT Plus piše",
+      "previewText": "Sa zadovoljstvom Vas obaveštavamo da je Rocket TT Super Podmazivač predstavljen u aprilskom izdanju Revije SAT Plus!",
+      "body": "Sa zadovoljstvom Vas obaveštavamo da je <b>Rocket TT Super Podmazivač predstavljen u aprilskom izdanju Revije SAT Plus!</b><br><br><b>Revija SAT Plus priča o širokoj primeni i efikasnost Rocket TT spreja, prikazujući njegove brojne primene i vrhunske performanse.</b> Rocket TT Super Podmazivač je dizajniran za široku primenu i pruža izuzetnu zaštitu metala. Njegova napredna formula stvara izdržljivu barijeru koja sprečava rđu i koroziju, čineći ga nezamenjivim za svakodnevno i profesionalno održavanje. Podmazivač smanjuje trenje, osigurava nesmetan rad pokretnih delova i efikasno uklanja tvrdokorne ostatke poput lepka, nalepnica i žvakaće gume. Idealan je za brave, šine, šarke i ručke, čineći ga savršenim za amatere, vlasnike automobila, industrijske radnike, DIY entuzijaste, bicikliste i motocikliste.<br><br> <b>U članku Revije SAT Plus, Rocket TT sprej je detaljno testiran u različitim situacijama, od uklanjanja tvrdokornih mrlja do podmazivanja škripavih delova i zaštite metalnih površina</b><br><br>Testovi su pokazali da Rocket TT pruža najbolje rezultate, što ga čini neophodnim dodatkom za svaku garažu ili radionicu.<b><br><br>Kompletan članak dostupan je na <a href='https://satplus.rs/categoryName/sat-plus'>SAT HUB</a></b>",
+      "imgPath": "./assets/pictures/news/rockettt.jpg",
+      "date": "Maj 3, 2024"
+    },
+    {
+      "id": 3,
+      "title": "Donosimo vrhunske proizvode bliže Vama: Rocket TT sprej od sada prisutan na tržištu Balkanka",
+      "previewText": "Rocket TT sa ponosom donosi vrhunske proizvode bliže Vama! Uzbuđeni smo da najavimo naše prisustvo širom Balkana, čineći Rocket TT proizvode dostupnijim nego ikad na vašim omiljenim prodajnim mestima.",
+      "body": "Rocket TT sa ponosom donosi vrhunske proizvode bliže Vama! Uzbuđeni smo da najavimo naše <b>prisustvo širom Balkana, čineći Rocket TT proizvode dostupnijim nego ikad na vašim omiljenim prodajnim mestima.</b> Bilo da <b>uređujete dom, popravljate Vaše vozilo ili obavljate redovno održavanje, Rocket TT proizvodi su vam sada dostupni širom regiona</b> i možete ih pronaći na <b>NIS Petrol i Gazprom benziskim stanicama i Lukoil Srbija benzinskim stanicama, maloprodajnim lancima, Delmax i prodavnicama za uređenje doma, Uradi sam.</b><br><br>Pratite nas putem Instagram-a @RocketTT.Balkans za najnovije vesti, ponude i savete o održavanju Vašeg vozila.<br><br>Pridružite se Rocket TT zajednici i iskusite najbolji kvalitet i vrhunske pogodnosti već danas!",
+      "date": "April 26, 2024"
+    }
+  ],
+  "faq": {
+    "title": "Često postavljana pitanja",
+    "sections": [
+      {
+        "title": "O Rocket TT Proizvodima",
+        "questions": [
+          {
+            "question": "Šta je Rocket TT Super Podmazivač?",
+            "answer": "Rocket TT Super Podmazivač je efikasno, višenamensko sredstvo za podmazivanje namenjeno širokom spektru primena. Karakteriše ga jedinstveni kristalni sloj voska koji pruža dugotrajnu zaštitu od korozije i rđe, istovremeno zaustavljajući škripanje, podmazujući pokretne delove i oslobađajući korodirane spojeve."
+          },
+          {
+            "question": "Na kojim površinama mogu koristiti Rocket TT Super Podmazivač?",
+            "answer": "Rocket TT Super Podmazivač može se koristiti na svim vrstama površina, uključujući metal, plastiku i gumu. Pogodan je za primenu u automobilskoj, morskoj, motociklističkoj i kućnoj upotrebi."
+          },
+          {
+            "isList": true,
+            "question": "Koje su dostupne veličine pakovanja Rocket TT Super Podmazivača?",
+            "answer": "<p>Rocket TT Super Podmazivač dostupan je u sledećim veličinama:</p><ul><li>Aerosol bočica od 100 ml</li><li>Aerosol bočica od 300 ml</li><li>Aerosol bočica od 450 ml</li><li>Aerosol bočica od 600 ml</li></ul><p>Veličine od 300 ml, 450 ml i 600 ml dostupne su sa tradicionalnim čepom i ručno postavljenom slamkom ili sa 2-u-1 super cevčicom za precizno ili široko nanošenje spreja.</p>"
+          },
+          {
+            "question": "Šta je 2-u-1 super cevčica?",
+            "answer": "2-u-1 super cevčica omogućava korisnicima da biraju između širokog spreja, preciznog spreja ili podešavanja cevčice za dostizanje teško dostupnih područja, pružajući raznovrsne opcije primene."
+          },
+          {
+            "question": "Koji su ključni benefiti Rocket TT Super Podmazivača?",
+            "answer": "<p>Ključne prednosti Rocket TT Super Podmazivača-a uključuju:</p><ul><li>Dugotrajnu zaštitu od rđe i korozije</li><li>Efikasno podmazivanje koje zaustavlja škripanje i osigurava glatko funkcionisanje.</li><li>Moćno prodiranje koje olabavljuje korodirane delove i spojeve.</li><li>Sveobuhvatno čišćenje koje uklanja prljavštinu, vlagu i sprečava rđanje.</li></ul>"
+          },
+          {
+            "question": "Da li mogu koristiti Rocket TT Super Podmazivač za čišćenje zaprljanih površina?",
+            "answer": "Da, Rocket TT Super Podmazivač efikasno uklanja lepak, olovku i žvakaću gumu sa većine tvrdih površina."
+          },
+          {
+            "question": "Kakva su iskustva profesionalaca s Rocket TT Super Lubricant-om?",
+            "answer": "Mike Brewer, poznati voditelj emisije Wheeler Dealers, poklonio je svoje poverenje Rocket TT brendu."
+          },
+          {
+            "question": "Kako koristiti Rocket TT Super Podmazivač?",
+            "answer": "<ul><li><strong>Temeljno promućkati</strong>: Dobro promućkati bočicu pre upotrebe.</li><li><strong>Nanos:</strong>Prskati direktno na površinu koja se tretira. Za precizne poslove, koristiti slamku da usmeri sprej.</li><li><strong>Ponoviti po potrebi:</strong>Za zaglavljene ili korodirane spojeve, ponoviti nanošenje dok se spojevi ne oslobode.</li><li><strong>Zaštita: </strong>Za zaštitu metala, ne brisati nakon nanošenja spreja.</li></ul>"
+          },
+          {
+            "question": "Da li su preporučene mere opreza prilikom korišćenja Rocket TT Super Podmaziča?",
+            "answer": "Nemojte prskati direktno na električne motore."
+          }
+        ]
+      },
+      {
+        "title": "O Rocket TT čistaču kočnica i delova",
+        "questions": [
+          {
+            "question": "Šta je Rocket TT Super Čistač kočnica i delova?",
+            "answer": "Rocket TT Super Čistač kočnica i delova je posebno formulisan čistač namenjen za superiorno čišćenje i odmašćivanje kočionih komponenti i drugih mehaničkih delova. Efikasno uklanja kočioni prah, mast, ulje i druge nečistoće."
+          },
+          {
+            "question": "Na kojim površinama može da se koristi Rocket TT Super Čistač kočnica i delova?",
+            "answer": "Rocket TT Super Čistač kočnica i delova može da se koristi na kočionim komponentama, delovima motora, komponentama prenosa i drugim mehaničkim delovima koji zahtevaju temeljno čišćenje i odmašćivanje."
+          },
+          {
+            "question": "Koje su dostupne veličine pakovanja  Rocket TT Super Čistača kočnica i delova?",
+            "answer": "Rocket TT Super Čistač kočnica i delova dostupan je u aerosol bočici od 500ml."
+          },
+          {
+            "question": "Koji su ključni benefiti Rocket TT Super Čistač kočnica i delova?",
+            "answer": "<p>Ključne prednosti Rocket TT Super Čistač kočnica i delova uključuju:</p><ul><li>Superiorno čišćenje i odmašćivanje kočionih komponenti i drugih mehaničkih delova.</li><li>Efikasno uklanjanje kočionog praha, masti, ulja i drugih nečistoća.</li><li>Poboljšane performanse i bezbednost kočionih sistema i mehaničkih delova.</li><li>Jednostavna primena sa snažnim sprejem za temeljno čišćenje.</li></ul>"
+          },
+          {
+            "question": "Kako se koristi Rocket TT Super Čistač kočnica i delova?",
+            "answer": "<ul><li><strong>Temeljno promućkati:</strong> Dobro promućkati čistač.</li><li><strong>Ukloniti čep:</strong> Skinuti čep.</li><li><strong>Nanos: </strong>Prskati direktno na površinu koja se čisti.</li><li><strong>Dopustiti prodiranje: </strong> Dozvoliti čistaču da prodre i rastvori mast i prljavštinu.</li><li><strong>Obrisati:</strong> Obrisati čistom krpom ili pustiti da se osuši na vazduhu.</li></ul>"
+          },
+          {
+            "question": "Da li su preporučene mere opreza prilikom korišćenja Rocket TT Super Čistač kočnica i delova?",
+            "answer": "Osigurajte adekvatnu ventilaciju tokom korišćenja proizvoda. Izbegavajte prskanje po farbanim površinama i električnim komponentama."
+          }
+        ]
+      },
+      {
+        "title": "Kupovina Rocket TT proizvoda",
+        "questions": [
+          {
+            "question": "Gde mogu kupiti Rocket TT proizvode?",
+            "answer": "Rocket TT proizvodi su dostupni na različitim prodajnim mestima širom Balkana, uključujući glavne benzinske stanice, maloprodajne lance, hipermarkete i prodavnice za kućnu popravku."
+          },
+          {
+            "question": "Mogu li kupiti Rocket TT proizvode online?",
+            "answer": "Trenutno, online prodaja Rocket TT proizvoda nije dostupna. Molimo posetite jednog od naših prodajnih partnera kako biste kupili naše proizvode."
+          },
+          {
+            "question": "Da li Rocket TT proizvodi dolaze sa garancijom?",
+            "answer": "Da, Rocket TT proizvodi dolaze sa garancijom koja osigurava kvalitet i performanse. Za specifične detalje garancije, molimo pogledajte informacije na ambalaži proizvoda ili kontaktirajte naš tim za korisničku podršku."
+          }
+        ]
+      },
+      {
+        "title": "O Rocket TT Brendu",
+        "questions": [
+          {
+            "question": "Šta je Rocket TT?",
+            "answer": "Rocket TT je britanski brend poznat po svojim visokokvalitetnim podmazivačima i sredstvima za čišćenje namenjenim različitim poslovima održavanja."
+          },
+          {
+            "question": "Da li je Rocket TT nov na našem tržištu?",
+            "answer": "Da, Rocket TT je prvi put dostupan na tržištu Balkana. Ponosni smo što uvodimo ovaj premium brend u našu regiju. "
+          },
+          {
+            "question": "Ko je uvoznik i distributer za Rocket TT u ovoj regiji?",
+            "answer": "Generalni uvoznik i distributer Rocket TT proizvoda u ovoj regiji je Orbital doo."
+          },
+          {
+            "question": "Kako mogu kontaktirati Orbital za poslovne upite?",
+            "answer": "Za poslovne upite i saradnju, možete nas kontaktirati na <a href=\"mailto:info@rocket.rs\">info@orbital.rs.</a>"
+          }
+        ]
+      }
+    ]
+  }
+}
