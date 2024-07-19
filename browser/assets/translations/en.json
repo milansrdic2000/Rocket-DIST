@@ -1,0 +1,484 @@
+{
+  "navigation": {
+    "home": "Home",
+    "news": "News",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "products": "Products",
+    "fastLinks": "Fast Links"
+  },
+  "home": {
+    "hero": {
+      "title": "More Than 1000 Uses Best on Test",
+      "subtitle": "Rocket TT : Stays Where It Sprays.",
+      "supportingText": "Rocket TT is your ultimate high-performance, multipurpose super lubricant, designed to provide exceptional protection and functionality across all surfaces. Featuring a unique Crystalline Wax Film, Rocket TT delivers long-lasting protection against corrosion and rust, ensuring your equipment remains in peak condition.",
+      "discoverAction": "Discover more",
+      "contactAction": "Contact us"
+    },
+    "about": {
+      "title": "Superior Lubrication",
+      "subtitle": "Effortlessly stops squeaks and ensures smooth operation of all moving parts",
+      "text1": "Developed with <span class='emphasis'>Tetrosyl's expertise and technical knowledge</span>, Rocket TT has been the go-to trade lubricant since the 1960s. It started its life in garages and workshops, lubricating and protecting metal and moving parts for generations. Now, the trade's best-kept secret has been released to the public in Rocket TT, the super lubricant with thousands of uses.",
+      "text2": "Rocket TT outperforms leading competitor products, providing superior water displacement and corrosion prevention properties. Whether you need to stop squeaks, lubricate moving parts, or release corroded fasteners, Rocket TT is up to the task.",
+      "text3": "Perfect for automotive, industrial, home, and DIY maintenance. Rocket TT also effectively removes glue, pencil, and gum marks from hard surfaces."
+    },
+    "product": {
+      "title": "Products",
+      "subtitle": "Now Available to the Public",
+      "text1": "Previously a trade secret, Rocket TT is now available for all maintenance needs.",
+      "cta": "Discover more"
+    },
+    "productYellow": {
+      "title": "Rocket TT Super Lubricant",
+      "subtitle": "Designed to tackle a wide range of tasks, making it essential for both everyday and professional maintenance.",
+      "cta": "Discover more"
+    },
+    "productRed": {
+      "title": "Rocket TT Brake and Part Cleaner",
+      "subtitle": "Designed for maintaining brake components and other mechanical parts, providing superior cleaning and degreasing performance.",
+      "cta": "Discover more"
+    },
+    "product-carousel": {
+      "title": "Rocket TT Super Lubricant",
+      "subtitle": "Key Features",
+      "follow-title": "Rocket TT Super Lubricant is designed to tackle a wide range of tasks, making it essential for both everyday and professional maintenance.",
+      "product-yellow": {
+        "title1": "Unmatched Metal Protection",
+        "char1": "The lubricant protects metal surfaces by preventing rust and corrosion. Its advanced formula creates a durable barrier, ideal for items stored outdoors or in humid environments, ensuring long-lasting protection.",
+        "title2": "High-Performance Lubrication",
+        "char2": "Reduces friction and ensures smooth operation of moving parts. Penetrates deep into mechanical components, providing sustained lubrication ideal for locks, tracks, hinges, and handles, enhancing efficiency and longevity.",
+        "title3": "Effective Moisture Resistance and Rust Release",
+        "char3": "Repels moisture to prevent rust and corrosion, protecting joints and connections from humidity and water damage. Its penetrating action also releases rusted parts, making it easier to loosen seized bolts, nuts, and screws.",
+        "title4": "Effortless Cleaning and Adhesive Removal",
+        "char4": "Effectively removes stubborn residues like glue, stickers, and chewing gum without damaging surfaces. Its stain-free formula makes it ideal for various cleaning tasks around the home, garage, and workshop."
+      },
+      "product-red": {
+        "title1": "Superior Cleaning Power",
+        "char1": "It delivers exceptional cleaning power, effectively removing brake dust, grease, oil, and other contaminants. This ensures your brakes operate smoothly and efficiently, reducing the risk of failure and enhancing safety.",
+        "title2": "Non-Corrosive",
+        "char2": "It is formulated to be non-corrosive, making it safe for various brake components. This ensures thorough cleaning without causing any damage.",
+        "title3": "High-Pressure Spray",
+        "char3": "The high-pressure spray canister delivers a powerful jet for precise application. It reaches difficult areas and ensures all contaminants are removed from even the smallest crevices.",
+        "title4": "Fast Drying Formula",
+        "char4": "The cleaner features a fast-drying formula that leaves no residue. This quick-drying action minimizes downtime and improves maintenance efficiency."
+      }
+    },
+    "ambassadors": {
+      "title": "Trusted by Professionals",
+      "subtitle": "Brand Ambassadors",
+      "ambassador": "Mike Brewer",
+      "position": "Presenter of Wheeler Dealers",
+      "message": "Rocket TT's brand ambassador is Mike Brewer, the renowned and recognized TV presenter from 'Wheeler Dealers.' As a recognized automotive expert and the well-known host of the show 'Wheeler Dealers,' Mike Brewer has placed his trust in the Rocket TT brand, praising the product by saying:",
+      "cite": "\"It’s simply the best.\""
+    },
+    "article-section": {
+      "title": "Latest News",
+      "subtitle": "Discover the Latest News and In-Depth Product Insights",
+      "cta": "Browse all articles"
+    },
+    "footer": {
+      "title": "Rocket TT: Stays Where It Sprays.",
+      "text": "Experience the difference with Rocket TT Super Lubricant – your reliable partner for smooth, efficient, and long-lasting performance.",
+      "contact": "Contact",
+      "customerService": "Customer Service",
+      "cs0": "Terms and Conditions",
+      "cs1": "Payment and Delivery Information",
+      "cs2": "Return Policy",
+      "cs3": "Contract Withdrawal",
+      "cs4": "Conformity and Warranty",
+      "cs5": "Privacy Policy and Data Protection"
+    }
+  },
+  "news": {
+    "title": "News",
+    "relatedNews": "Related News",
+    "publicationDate": "Publication date:",
+    "category": "Category:",
+    "all": "All"
+  },
+  "dealers": {
+    "becomeDealer": "Become a Dealer",
+    "dealerText": "Explore our comprehensive product portfolio. For inquiries about becoming a dealer, please contact us.",
+    "contactUs": "Contact Us"
+  },
+  "contact": {
+    "title": "Contact Information",
+    "address": "Dunavska 25, Belgrade",
+    "submitButton": "Send Message",
+    "firstName": "First Name",
+    "firstNamePlaceholder": "Enter  first name",
+    "firstNameError": "First name is required",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Enter  last name",
+    "lastNameError": "Last name is required",
+    "email": "E-mail",
+    "emailPlaceholder": "Enter email address",
+    "emailError": "Email is invalid",
+    "message": "Message",
+    "messagePlaceholder": "Please type your message here",
+    "messageError": "Message is required",
+    "phone": "Phone (optional)",
+    "phonePlaceholder": "Enter phone number",
+    "successMessage": "Your message has been sent successfully.",
+    "successTitle": "Success!",
+    "waitingTitle": "Please wait...",
+    "errorTitle": "Error!",
+    "VAT": "VAT",
+    "RN": "RN"
+  },
+  "productPage": {
+    "header": "Discover Our Product Range",
+    "followingText": "Explore our range of Rocket TT products, designed to meet all your lubrication needs. Whether it's for household, garden, or automotive use, we have the perfect solution for you.",
+    "sizesTitle": "Rocket TT - Available Sizes"
+  },
+  "singleProduct": {
+    "lubricant": {
+      "title": "Rocket TT Super Lubricant",
+      "size": "450ml",
+      "description": "Rocket TT Super Lubricant is designed to tackle a wide range of tasks, making it essential for both everyday and professional maintenance.",
+      "availableSizes": "Available Sizes",
+      "capStraw": "<strong>Rocket TT Cap & Straw</strong>: 100ml, 300ml",
+      "superTube": "<strong>Rocket TT Super Tube</strong>: 300ml, 450ml, 600ml",
+      "openingSystemTitle": "Innovative opening system",
+      "openingSystemText": "The innovative \"slide to open\" system provides convenience and precision. Simply slide the cap to easily apply the product in hard-to-reach areas, ensuring targeted application without hassle.",
+      "tabs": {
+        "tab1": "Key Features",
+        "tab2": "Additional Uses and Benefits"
+      },
+      "additionalUses": [
+        {
+          "header": "Protecting Metal Surfaces",
+          "text": "Shield against rust and corrosion."
+        },
+        {
+          "header": "Lubricating Parts",
+          "text": "Keeps moving parts running smoothly."
+        },
+        {
+          "header": "Releasing Rusted Components",
+          "text": "Frees rusted bolts, nuts, and screws."
+        },
+        {
+          "header": "Stopping Squeaks",
+          "text": "Eliminates squeaking in various mechanisms."
+        },
+        {
+          "header": "Removing Adhesives",
+          "text": "Cleans off stickers, glue, and gum."
+        },
+        {
+          "header": "Moisture Protection",
+          "text": "Repels moisture to prevent rust."
+        },
+        {
+          "header": "Cleaning and Protecting Electrical Connections",
+          "text": "Keeps electrical components free from dirt and moisture."
+        },
+        {
+          "header": "Preserving Paintwork",
+          "text": "Prevents scratches and maintains the appearance of painted surfaces."
+        },
+        {
+          "header": "Winter Storage Protection",
+          "text": "Ideal for protecting garden tools and other equipment during winter storage, providing a waterproof, anti-corrosive coating."
+        },
+        {
+          "header": "Removing Pen Marks and Other Stains",
+          "text": "Efficiently cleans off unwanted marks without damaging surfaces."
+        }
+      ],
+      "useReasons": {
+        "title": "Who Should Use Rocket TT Super Lubricant?",
+        "reasons": [
+          {
+            "imgPath": "./assets/svg/icons/homeowners.svg",
+            "title": "HOMEOWNERS",
+            "text": "For everyday maintenance tasks around the house."
+          },
+          {
+            "imgPath": "./assets/svg/icons/automotive.svg",
+            "title": "Mechanics",
+            "text": "For reliable maintenance and servicing of vehicles and equipment."
+          },
+          {
+            "imgPath": "./assets/svg/icons/autic.svg",
+            "title": "AUTOMOTIVE ENTHUSIASTS",
+            "text": "To keep vehicles in top condition."
+          },
+          {
+            "imgPath": "./assets/svg/icons/industrial.svg",
+            "title": "DIY ENTHUSIASTS",
+            "text": "To ensure their projects are completed smoothly and efficiently."
+          },
+          {
+            "imgPath": "./assets/svg/icons/diy.svg",
+            "title": "INDUSTRIAL WORKERS",
+            "text": "For maintaining machinery and equipment."
+          },
+
+          {
+            "imgPath": "./assets/svg/icons/cycle.svg",
+            "title": "CYCLISTS",
+            "text": "For maintaining bicycles and ensuring a smooth ride."
+          }
+        ]
+      }
+    },
+    "brakeCleaner": {
+      "title": "Rocket TT Brake and Part Cleaner",
+      "size": "500ml",
+      "description": "Rocket TT Brake and Part Cleaner is specifically designed for the maintenance of brake components and other mechanical parts, providing superior cleaning and degreasing performance.",
+      "additionalUsesHeader": [
+        {
+          "header": "Multi-Purpose Application",
+          "text": ""
+        },
+        {
+          "header": "Enviromentally Friendly",
+          "text": ""
+        }
+      ],
+      "openingSystemTitle": "Innovative opening system",
+      "openingSystemText": "The innovative \"slide to open\" system provides convenience and precision. Simply slide the cap to easily apply the product in hard-to-reach areas, ensuring targeted application without hassle.",
+      "tabs": {
+        "tab1": "Key Features",
+        "tab2": "Additional Uses and Benefits"
+      },
+      "additionalUses": [
+        {
+          "header": "Enhanced Safety",
+          "text": "By ensuring that brake components are clean and free from contaminants, Rocket TT Brake and Part Cleaner helps to enhance the overall safety and performance of your vehicle's braking system."
+        },
+        {
+          "header": "Improved Efficiency",
+          "text": "The fast-drying, high-pressure formula improves the efficiency of maintenance tasks, allowing for quick and easy cleaning of parts."
+        },
+        {
+          "header": "Cost-Effective",
+          "text": "With its powerful cleaning action and versatile application, Rocket TT Brake and Part Cleaner provides a cost-effective solution for maintaining brake components and other mechanical parts."
+        },
+        {
+          "header": "Prolonged Component Life",
+          "text": "Regular use of Rocket TT Brake and Part Cleaner helps to extend the life of brake components and other mechanical parts by removing harmful contaminants that can cause wear and tear."
+        },
+        {
+          "header": "Environmentally Friendly",
+          "text": "Formulated with environmentally friendly ingredients, Rocket TT Brake and Part Cleaner reduces the environmental impact of maintenance activities while still delivering superior cleaning performance."
+        },
+        {
+          "header": "Versatile Application",
+          "text": "In addition to brake components, Rocket TT Brake and Part Cleaner is effective on a wide range of mechanical parts, making it a versatile addition to any maintenance toolkit."
+        }
+      ],
+      "useReasons": {
+        "title": "Who Should Use Rocket TT Super Lubricant?",
+        "reasons": [
+          {
+            "imgPath": "./assets/svg/icons/homeowners.svg",
+            "title": "AUTOMOTIVE TECHNICANS",
+            "text": "For maintaining and cleaning brake components and other car parts."
+          },
+          {
+            "imgPath": "./assets/svg/icons/automotive.svg",
+            "title": "Mechanics",
+            "text": "To keep engines and other mechanical parts clean and running efficiently."
+          },
+          {
+            "imgPath": "./assets/svg/icons/industrial.svg",
+            "title": "DIY Enthusiasts",
+            "text": "For home maintenance of vehicles and machinery."
+          },
+          {
+            "imgPath": "./assets/svg/icons/diy.svg",
+            "title": "Industrial Workers",
+            "text": "For maintaining cleanliness and efficiency of industrial equipment."
+          }
+        ]
+      }
+    }
+  },
+  "yellowProduct": {
+    "id": 1,
+    "imgPath": "assets/pictures/velicine/zuti-450.webp",
+    "title": "Rocket TT Super Lubricant",
+    "text": "Designed to tackle a wide range of tasks, making it essential for both everyday and professional maintenance.",
+    "sizes": [
+      {
+        "title": "Rocket TT Super Tube",
+        "size": "600ml MEGA CAN",
+        "imgPath": "assets/pictures/velicine/zuti-600.webp"
+      },
+      {
+        "title": "Rocket TT Super Tube",
+        "size": "300ml",
+        "imgPath": "assets/pictures/velicine/zuti-300.webp"
+      },
+      {
+        "title": "Rocket TT Cap & Straw",
+        "size": "100ml",
+        "imgPath": "assets/pictures/velicine/crveni-100.webp"
+      }
+    ]
+  },
+  "redProduct": {
+    "id": 2,
+    "imgPath": "assets/pictures/velicine/crveni-500.webp",
+    "title": "Rocket TT Brake and Part Cleaner",
+    "text": "Designed for maintaining brake components and other mechanical parts, providing superior cleaning and degreasing performance.",
+    "sizes": [
+      {
+        "title": "Rocket TT Super Tube",
+        "size": "450ml",
+        "imgPath": "assets/pictures/velicine/zuti-450.webp"
+      },
+      {
+        "title": "Rocket TT Cap & Straw",
+        "size": "300ml",
+        "imgPath": "assets/pictures/velicine/crveni-300.webp"
+      },
+      {
+        "title": "Rocket TT Brake and Part Cleaner",
+        "size": "500ml",
+        "imgPath": "assets/pictures/velicine/crveni-500.webp"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "id": 1,
+      "title": "Special offer at all NIS gas stations: Rocket TT Super Lubricant for just 1 RSD",
+      "body": "We are pleased to inform you about <b>a special offer valid at all NIS gas stations!</b> With the purchase of any <b>Castrol</b> oil, you can get the <b>Rocket TT Super Lubricant for just 1 RSD</b>. <br><br> <b>Lubricate parts and ensure top protection for your vehicle with Rocket TT Super Lubricant.</b> Rocket TT Super Lubricant is ideal for lubricating moving parts, protecting metal surfaces, loosening rusty bolts, removing stubborn residues, as well as cleaning and protecting electrical connections<br><br> <b>The offer lasts until stocks run out, so hurry to the nearest NIS Petrol or Gazprom gas station and take advantage of this unique opportunity.</b> Don't miss the chance to get Rocket TT products at an incredible price.<br><br> Follow us on Instagram @RocketTT.Balkans for the latest news, offers, and vehicle maintenance tips.",
+      "imgPath": "./assets/pictures/news/rockettt.jpg",
+      "previewText": "We are pleased to inform you about a special offer valid at all NIS gas stations! With the purchase of any Castrol oil, you can get the Rocket TT Super Lubricant for just 1 RSD.",
+      "date": "June 28, 2024"
+    },
+    {
+      "id": 2,
+      "title": "Rocket TT Spray in the Media: SAT Plus Magazine Writes",
+      "previewText": "We are pleased to inform you that Rocket TT Super Lubricant has been featured in the April issue of Revija SAT Plus!",
+      "body": "We are pleased to inform you <b>that Rocket TT Super Lubricant has been featured in the April issue of Revija SAT Plus!</b><br><br><b>Revija SAT Plus discusses the wide application and efficiency of Rocket TT spray, showcasing its numerous uses and top-notch performance.</b><br><br>Rocket TT Super Lubricant is designed for a wide range of applications and provides exceptional metal protection. Its advanced formula creates a durable barrier that prevents rust and corrosion, making it indispensable for everyday and professional maintenance. The lubricant reduces friction, ensures smooth operation of moving parts, and effectively removes stubborn residues like glue, stickers, and chewing gum. It is ideal for locks, rails, hinges, and handles, making it perfect for amateurs, car owners, industrial workers, DIY enthusiasts, cyclists, and motorcyclists<br><br><b>In the SAT Plus Magazine article, Rocket TT spray was thoroughly tested in various situations, from removing stubborn stains to lubricating squeaky parts and protecting metal surfaces</b> <br><br>The tests showed that Rocket TT delivers the best results, making it an essential addition to any garage or workshop<br><br> <b>The full article is available on <a href='https://satplus.rs/categoryName/sat-plus'>SAT HUB</a></b>",
+      "date": "May 3, 2024"
+    },
+    {
+      "id": 3,
+      "title": "Bringing Top-Quality Products Closer to You: Rocket TT Spray Now Available in the Balkan Market",
+      "previewText": "Rocket TT proudly brings top-quality products closer to you! We are excited to announce our presence across the Balkans, making Rocket TT products more accessible than ever at your favorite retail locations.",
+      "body": "Rocket TT proudly brings top-quality products closer to you! We are excited to announce our <b>presence across the Balkans</b>, making <b>Rocket TT products more accessible than ever at your favorite retail locations.</b> Whether you are <b>renovating your home, repairing your vehicle, or performing regular maintenance, Rocket TT products are now available throughout the region</b> and can be found at <b>NIS Petrol and Gazprom gas stations, Lukoil Serbia gas stations, retail chains, Delmax, and DIY stores, Uradi Sam.</b><br><br>Follow us on Instagram <b>@RocketTT.Balkans</b> for the latest news, offers, and vehicle maintenance tips.<br><br>Join the Rocket TT community and experience the best quality and top benefits today!",
+      "date": "April 26, 2024"
+    }
+  ],
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "sections": [
+      {
+        "title": "About Rocket TT Products",
+        "questions": [
+          {
+            "question": "What is Rocket TT Super Lubricant?",
+            "answer": "Rocket TT Super Lubricant is a high-performance, multipurpose lubricant designed to provide exceptional protection and functionality across all surfaces. It features a unique Crystalline Wax Film that delivers long-lasting protection against corrosion and rust, ensuring your equipment remains in peak condition."
+          },
+          {
+            "question": "What surfaces can I use Rocket TT Super Lubricant on?",
+            "answer": "Rocket TT Super Lubricant can be used on all types of surfaces, including metal, plastic, and rubber. It is suitable for automotive, marine, motorcycle, and household applications."
+          },
+          {
+            "isList": true,
+            "question": "What sizes are available for Rocket TT Super Lubricant?",
+            "answer": "<p>Rocket TT Super Lubricant is available in the following sizes:</p><ul><li>100ml aerosol can</li><li>300ml aerosol can</li><li>450ml aerosol can</li><li>600ml aerosol can</li></ul><p>The 300ml, 450ml, and 600ml sizes are available with either a traditional cap and manually applied straw or a 2-in-1 super tube for precise or wide-angle spray applications.</p>"
+          },
+          {
+            "question": "What is the 2-in-1 super tube?",
+            "answer": "The 2-in-1 super tube allows users to choose between a wide spray, precision spray, or to adjust the spray tube to reach hard-to-reach areas, providing versatile application options."
+          },
+          {
+            "question": "What are the key benefits of Rocket TT Super Lubricant?",
+            "answer": "<p>The key benefits of Rocket TT Super Lubricant include:</p><ul><li>Long-lasting protection against rust and corrosion.</li><li>Effective lubrication to stop squeaks and ensure smooth operation</li><li>Powerful penetration to loosen corroded parts and fasteners.</li><li>Comprehensive cleaning to unblock dirt, remove moisture, and prevent rusting.</li></ul>"
+          },
+          {
+            "question": "Can I use Rocket TT Super Lubricant to clean surfaces?",
+            "answer": "Yes, Rocket TT Super Lubricant can effectively remove glue, pencil, and gum marks from most hard surfaces."
+          },
+          {
+            "question": "Is Rocket TT Super Lubricant endorsed by any professionals?",
+            "answer": "Yes, Rocket TT Super Lubricant is proudly endorsed by Mike Brewer, the renowned presenter of Wheeler Dealers."
+          },
+          {
+            "question": "How do I use Rocket TT Super Lubricant?",
+            "answer": "<ul><li><strong>Shake Well</strong>: Shake the can well before use.</li><li><strong>Apply:</strong>Spray directly onto the surface to be treated. For intricate jobs, fit the straw to direct the spray.</li><li><strong>Repeat if Necessary:</strong>For seized or corroded joints, repeat spraying until joints are free.</li><li><strong>Protection:</strong>For metal protection, do not wipe off after spraying.</li></ul>"
+          },
+          {
+            "question": "Are there any precautions when using Rocket TT Super Lubricant?",
+            "answer": "Do not spray directly onto electric motors."
+          }
+        ]
+      },
+      {
+        "title": "About Rocket TT Brake and Part Cleaner",
+        "questions": [
+          {
+            "question": "What is Rocket TT Brake and Part Cleaner?",
+            "answer": "Rocket TT Brake and Part Cleaner is a specially formulated cleaner designed to provide superior cleaning and degreasing for brake components and other mechanical parts. It effectively removes brake dust, grease, oil, and other contaminants."
+          },
+          {
+            "question": "What surfaces can I use Rocket TT Brake and Part Cleaner on?",
+            "answer": "Rocket TT Brake and Part Cleaner can be used on brake components, engine parts, transmission components, and other mechanical parts that require thorough cleaning and degreasing."
+          },
+          {
+            "question": "What size is available for Rocket TT Brake and Part Cleaner?",
+            "answer": "Rocket TT Brake and Part Cleaner is available in a 500ml aerosol can."
+          },
+          {
+            "question": "What are the key benefits of Rocket TT Brake and Part Cleaner?",
+            "answer": "<p>The key benefits of Rocket TT Brake and Part Cleaner include:</p><ul><li>Superior cleaning and degreasing for brake components and other mechanical parts.</li><li>Effective removal of brake dust, grease, oil, and other contaminants.</li><li>Enhanced performance and safety of brake systems and mechanical parts.</li><li>Easy application with a powerful spray for thorough cleaning.</li></ul>"
+          },
+          {
+            "question": "How do I use Rocket TT Brake and Part Cleaner?",
+            "answer": "<ul><li><strong>Shake Well</strong>: Ensure the cleaner is well mixed.</li><li><strong>Remove Cap:</strong> Take Off the cap.</li><li><strong>Apply: </strong>Spray directly onto the area to be cleaned.</li><li><strong>Allow to Penetrate: </strong> Let the cleaner penetrate and dissolve grease and grime.</li><li><strong>Wipe Clean:</strong> Wipe clean with a cloth or allow to air dry.</li></ul>"
+          },
+          {
+            "question": "Are there any precautions when using Rocket TT Brake and Part Cleaner?",
+            "answer": "Ensure proper ventilation when using the product. Avoid spraying on painted surfaces and electrical components."
+          }
+        ]
+      },
+      {
+        "title": "Purchasing Rocket TT Products",
+        "questions": [
+          {
+            "question": "Where can I buy Rocket TT products?",
+            "answer": "Rocket TT products are available at a variety of retail locations throughout the Balkans, including major gas stations, retail chains, hypermarkets, and home improvement stores."
+          },
+          {
+            "question": "Can I purchase Rocket TT products online?",
+            "answer": "Currently, online sales of Rocket TT products are not available. Please visit one of our retail partners to purchase our products."
+          },
+          {
+            "question": "Do Rocket TT products come with a warranty?",
+            "answer": "Yes, Rocket TT products come with a warranty that ensures quality and performance. For specific warranty details, please refer to the product packaging or contact our customer service team."
+          }
+        ]
+      },
+      {
+        "title": "About Rocket TT and Orbital",
+        "questions": [
+          {
+            "question": "What is Rocket TT?",
+            "answer": "Rocket TT is a British brand known for its high-quality lubricants and cleaners designed for various maintenance tasks."
+          },
+          {
+            "question": "Is Rocket TT new to our market?",
+            "answer": "Yes, Rocket TT is available in Balkans market for the first time. We are proud to introduce this premium brand to our region."
+          },
+          {
+            "question": "Who is the importer and distributor for Rocket TT in this region?",
+            "answer": "We, at Orbital, are the official importers and distributors of Rocket TT products in this region."
+          },
+          {
+            "question": "How can I contact Orbital for business inquiries?",
+            "answer": "For business inquiries and cooperation, you can contact us at <a href=\"mailto:info@rocket.rs\">info@orbital.rs.</a>"
+          }
+        ]
+      }
+    ]
+  }
+}
