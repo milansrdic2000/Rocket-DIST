@@ -1,0 +1,5 @@
+# Do not rewrite requests to /api
+/api/*    /api/:splat    200
+
+# Redirect alla other requests to index.html
+/*    /index.html    200

@@ -94,7 +94,9 @@
     "relatedNews": "Povezane vesti",
     "publicationDate": "Datum objave:",
     "category": "Kategorija:",
-    "all": "Svi"
+    "all": "Svi",
+    "spotlight": "Izdvojeno",
+    "news": "Novosti"
   },
   "dealers": {
     "becomeDealer": "Postani oficijalni distributer",
@@ -275,7 +277,7 @@
           {
             "imgPath": "./assets/svg/icons/homeowners.svg",
             "title": "Automobilski tehničari",
-            "text": "Za održavanje i čišćenje kočionih komponenti i drugih delova automobila"
+            "text": "Za održavanje i čišćenje kočionih komponenti i drugih delova automobila."
           },
           {
             "imgPath": "./assets/svg/icons/automotive.svg",
@@ -285,7 +287,7 @@
           {
             "imgPath": "./assets/svg/icons/diy.svg",
             "title": "DIY entuzijasti",
-            "text": "Za kućno održavanje vozila i mašina"
+            "text": "Za kućno održavanje vozila i mašina."
           },
           {
             "imgPath": "./assets/svg/icons/industrial.svg",

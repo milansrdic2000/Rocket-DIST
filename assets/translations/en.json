@@ -94,7 +94,9 @@
     "relatedNews": "Related News",
     "publicationDate": "Publication date:",
     "category": "Category:",
-    "all": "All"
+    "all": "All",
+    "spotlight": "Spotlight",
+    "news": "News"
   },
   "dealers": {
     "becomeDealer": "Become a Dealer",
